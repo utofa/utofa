@@ -7,12 +7,26 @@
 
 ---
 
-### 🚀 Чем занимаюсь:
+### 🚀 Чем занимаюсь
 
-- 🐍 **Python**: парсеры, Telegram-боты, FastAPI, Celery, SQLAlchemy
-- 🦫 **Go**: WhatsApp-боты через Whatsmeow, API, чистая архитектура
-- 🗃 **Базы данных**: PostgreSQL, Redis, SQLite
-- 📡 **Работаю с**: WebSocket, REST, RabbitMQ, Tor
+<table>
+  <tr>
+    <td>🐍 <strong>Python</strong></td>
+    <td>Парсеры, Telegram-боты, FastAPI, Celery, SQLAlchemy</td>
+  </tr>
+  <tr>
+    <td>🦫 <strong>Go</strong></td>
+    <td>WhatsApp-боты через Whatsmeow, API, чистая архитектура</td>
+  </tr>
+  <tr>
+    <td>🗃 <strong>Базы данных</strong></td>
+    <td>PostgreSQL, Redis, SQLite</td>
+  </tr>
+  <tr>
+    <td>📡 <strong>Интеграции</strong></td>
+    <td>WebSocket, REST, RabbitMQ, Tor</td>
+  </tr>
+</table>
 
 ---
 
