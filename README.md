@@ -60,11 +60,13 @@
 ---
 
 ### 📫 Связаться со мной
+<p align="center">
+  <a href="https://t.me/hodja_kas" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=435&lines=Свяжись+со+мной+в+Telegram;@hodja_kas+ждёт+сообщение" alt="Telegram Link" />
+  </a>
+</p>
 
 <p align="left">
-  <a href="https://t.me/hodja_kas" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
   <a href="mailto:utofautofa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
