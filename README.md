@@ -62,9 +62,10 @@
 ### 📫 Связаться со мной
 <p align="center">
   <a href="https://t.me/hodja_kas" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=435&lines=Свяжись+со+мной+в+Telegram;@hodja_kas+ждёт+сообщение" alt="Telegram Link" />
+    <img src="https://raw.githubusercontent.com/Ut0fa/assets/main/telegram-animated.gif" alt="Telegram" width="200"/>
   </a>
 </p>
+
 
 <p align="left">
   <a href="mailto:utofautofa@gmail.com">
